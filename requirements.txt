@@ -1,13 +1,5 @@
 streamlit
-transformers
-torch
-sentence-transformers
-scikit-learn
-opencv-python
-Pillow
 requests
-numpy
-pandas
-matplotlib
-nltk
-flask
+pytesseract
+Pillow
+opencv-python
