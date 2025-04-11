@@ -1,4 +1,13 @@
 streamlit
-pytesseract
+transformers
+torch
+sentence-transformers
+scikit-learn
+opencv-python
 Pillow
 requests
+numpy
+pandas
+matplotlib
+nltk
+flask
